@@ -1,5 +1,5 @@
 import '../src/css/App.css';
-import FrontPage from './components/RollScreen'
+import FrontPage from './components/rollScreen'
 import Dices from './components/Dices'
 
 
