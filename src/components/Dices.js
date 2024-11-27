@@ -4,7 +4,7 @@ import rollToIndex from '../hooks/useRollDices';
 const Dices = () => {
     return <div>
 
-        <div class="viewport">
+        <div id='dados' class="viewport">
         <div class="cube bis index-1">
             <div class="side">
             <div>1</div>

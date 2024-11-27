@@ -8,6 +8,11 @@ body{
   background: #272825;
   color: #fa2d7d;
   color: white;
+  position: fixed;
+}
+
+#bloco{
+  border: 1px solid rgb(155, 135, 135);
 }
 
 
@@ -31,6 +36,7 @@ $spin-easing: ease-out;
   
   position: absolute;
   top:40%; left:0; right: 0;
+  margin-left: 315px;
   transform: translateY(-50%);
   text-align: center;
   
@@ -153,6 +159,7 @@ $spin-easing: ease-out;
   color: #FFF;
   padding: 0.5em 1em;
   cursor: pointer;
+  margin-left: 320px;;
 }
 
 .buttons button:active{
@@ -163,9 +170,23 @@ $spin-easing: ease-out;
   display: none;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
   #bloco {
-    background-color: #fa2d7d;
-    
+    background-color: #272825;
+    border-color: #272825;
+  }
+
+  #cabecalho,#tronco,#rodape {
+    margin-left: -300px;
+  }
+
+  #dados{
+    margin-left: -300px;
+    margin-top: 60px;
+    height: 432px;
+  }
+
+  .buttons button{
+    margin-left: -620px;
   }
 }
