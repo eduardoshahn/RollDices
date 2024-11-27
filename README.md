@@ -16,4 +16,4 @@ Este projeto é uma aplicação simples que simula a rolagem de dados, criada us
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/rolagem-de-dados-react.git
+   git clone https://github.com/eduardoshahn/RollDices.git
