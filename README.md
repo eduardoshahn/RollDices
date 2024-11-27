@@ -1,5 +1,7 @@
 # Aplicação de Rolagem de Dados com React
 
+Link Hospedado: https://eshderegandices.web.app/
+
 Este projeto é uma aplicação simples que simula a rolagem de dados, criada usando **React.js**. O objetivo é permitir que os usuários "rolem" dados e vejam o resultado na tela de forma interativa.
 
 ## Funcionalidades
