@@ -1,6 +1,6 @@
-# Aplicação de Rolagem de Dados
+# Aplicação de Rolagem de Dados com React
 
-Este projeto é uma aplicação simples que simula a rolagem de dados, criada usando HTML, CSS e JavaScript.
+Este projeto é uma aplicação simples que simula a rolagem de dados, criada usando **React.js**. O objetivo é permitir que os usuários "rolem" dados e vejam o resultado na tela de forma interativa.
 
 ## Funcionalidades
 
@@ -8,13 +8,12 @@ Este projeto é uma aplicação simples que simula a rolagem de dados, criada us
 
 ## Tecnologias Usadas
 
-- **HTML**: Estrutura básica da página e criação de botões de interação.
+- **React.js**: Biblioteca JavaScript para construção da interface e gestão do estado da aplicação.
 - **CSS**: Estilos básicos para a apresentação da interface.
-- **JavaScript**: Lógica para simular a rolagem dos dados.
 
 ## Como Usar
 
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/rolagem-de-dados.git
+   git clone https://github.com/seu-usuario/rolagem-de-dados-react.git
